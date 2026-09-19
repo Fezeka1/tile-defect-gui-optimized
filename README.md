@@ -64,3 +64,9 @@ python test_model.py
 - Pillow
 - NumPy
 - Matplotlib
+
+## Team 
+ - Fulufhelo Matidza
+ - Tiisetso Mphahlele
+ - Lungelo Vilakazi
+ - Fezeka Zungu
