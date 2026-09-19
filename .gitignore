@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+training_checkpoint.pt
+training_history.json
+calibration_baseline.json
+calibration_finetune.json
+optimized_autoencoder_UNUSED.pth
+optimized_finetune_UNUSED.pth
+tile/
+tile_1__tar.xz
+tile(1)/
