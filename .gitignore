@@ -1,11 +1,33 @@
+# Python cache
 __pycache__/
 *.pyc
+
+# Streamlit local settings
+.streamlit/
+
+# Training artifacts
 training_checkpoint.pt
 training_history.json
-calibration_baseline.json
-calibration_finetune.json
+
+# Unused / old checkpoints
 optimized_autoencoder_UNUSED.pth
 optimized_finetune_UNUSED.pth
+optimization3_model.pth
+
+# Optimization 3 calibration
+calibration3.json
+
+# Old / unused calibration files
+calibration_baseline.json
+calibration_finetune.json
+calibration_optimized.json
+
+# Dataset folders / archives
 tile/
-tile_1__tar.xz
 tile(1)/
+tile_1.tar.xz
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
