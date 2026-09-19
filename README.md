@@ -70,3 +70,6 @@ python test_model.py
  - Tiisetso Mphahlele
  - Lungelo Vilakazi
  - Fezeka Zungu
+
+## Application
+https://tile-defect-gui-optimized-8pkgyutdznqtc5l8bzwczi.streamlit.app/
